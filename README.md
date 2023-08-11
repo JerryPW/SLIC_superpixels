@@ -3,7 +3,7 @@ Final project for course on computer vision. [SLIC superpixels paper](http://www
 
 ##### To run project:
 
-slic.py Lenna.png 1000 40
+'''python slic.py Lenna.png 1000 40'''
 
 Where:
  arg[1] is the name of the image you would like to run the program on. I have provided Lenna.png in the folder already, but the algorithm should run on any aspect ratio and image.
